@@ -11,7 +11,7 @@
 
 ## My socials:
 
-[TikTok: coding.labs](https://www.tiktok.com/@coding.labs) &nbsp;&nbsp;&nbsp; [Discord: swift](https://discord.com/users/1172633652740505672)
+[TikTok: coding.labs](https://www.tiktok.com/@coding.labs) &nbsp;&nbsp;&nbsp; [Discord: gorgon](https://discord.com/users/1172633652740505672)
 
 ## If anyone has any suggestions, feel free! 
 </div>
