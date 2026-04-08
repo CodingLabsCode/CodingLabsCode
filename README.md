@@ -2,8 +2,7 @@
 
 # 👋 Hi there, I'm Coding Labs  
 
-💻 **Aspiring Full Stack Developer**  
-🚀 Building, learning, and leveling up every day  
+💻 **Aspiring Full Stack Developer** 🚀 Building, learning, and leveling up every day  
 
 ---
 
@@ -11,26 +10,29 @@
 
 ### 💡 Languages I Know
 <p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" height="30"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" height="40" alt="html5" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" height="40" alt="css3" />
 </p>
 
 ### 📚 Currently Learning
 <p>
-  <img src="https://stickypng.com/wp-content/uploads/2023/07/62a4bbf6fdee15d2905007bb.png" height="30"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30"/>
-  
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript" />
 </p>
 
 ---
 
 ## 🌐 Connect With Me
 <p>
-  <a href="https://www.tiktok.com/@coding.labs">📱 TikTok</a>
-  &nbsp;•&nbsp;
-  <a href="https://www.youtube.com/">🎥 YouTube</a>
-  &nbsp;•&nbsp;
-  <a href="https://discord.com/users/1172633652740505672">💬 Discord</a>
+  <a href="https://www.tiktok.com/@.codinglabs">
+    <img src="https://static.vecteezy.com/system/resources/previews/023/986/939/original/tiktok-logo-tiktok-logo-transparent-tiktok-icon-transparent-free-free-png.png" height="40" />
+  </a>
+  <a href="https://discord.com/users/1172633652740505672">
+    <img src="https://freelogopng.com/images/all_img/1691730767discord-logo-transparent.png" height="40" />
+  </a>
+  <a href="https://www.youtube.com/@Codinglabs-h6l">
+    <img src="https://static.vecteezy.com/system/resources/previews/045/872/262/non_2x/youtube-transparent-logo-youtube-logo-transparent-background-free-png.png" height="40" />
+  </a>
 </p>
 
 ---
@@ -41,12 +43,9 @@
 ---
 
 ## 🎯 Goals
-🔥 Become a **Full Stack Developer**  
-⚡ Learn modern JavaScript frameworks  
+🔥 Become a **Full Stack Developer** ⚡ Learn modern JavaScript frameworks  
 🌍 Build real-world projects  
 
 ---
 
-✨ *Always open to suggestions and collabs!*  
-
-</div>
+✨ *Always open to suggestions and collabs!* </div>
