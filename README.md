@@ -22,11 +22,17 @@ ________________________________________________________________________________
 </p>
 
 ### 📚 Currently Learning
-javascript soon!!!
+SQL Soon!
+
+JavaScript Soon!
+
+Swift Soon!
+
+C Soon!
 <p>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python" />
  <!---<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript" /> !--->
-  <img src="https://www.pngkit.com/png/full/101-1010012_c-programming-icon-c-programming-language-logo.png" height="40"/>
+ <!--- <img src="https://www.pngkit.com/png/full/101-1010012_c-programming-icon-c-programming-language-logo.png" height="40"/> !--->
 </p>
 
 ---
