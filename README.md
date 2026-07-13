@@ -1,69 +1,67 @@
 <div align="center">
 
-<pre style="display: inline-block; text-align: left;">
-______________________________________________________________________________________
-/                                                                                      \
-|  __        __   ______   ______    _____    ______ __      _    _    ____            |
-|  \ \      / /  / ____/  / __  /   / __  \  / ____/ \ \    / /  | |  / __ \           |
-|   \ \ /\ / /  / /___   / /_/ /   / /  / / / /___    \ \  / /   | | | /  \ |          |
-|    \ V  V /  / ____/  / __  (   / /  / / / ____/     \ \/ /    | | | |  | |          |
-|     \ /\ /  / /___   / /__/ /  / /__/ / / /___        \  /  _  | | | \__/ |          |
-|      V  V  /_____/  /______/  /______/ /_____/         \/  (_) |_|  \____/           |
-|                                                                                      |
-\______________________________________________________________________________________/
-</pre>
+## Tech Stack
 
----
-<h2 align="center">Tech Stack</h2>
+### Languages & Frameworks
 
-<table align="center">
-<tr>
-<td align="center">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="70"><br>
-HTML
-</td>
+<p align="center">
+  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML5" width="50" height="50" style="margin: 10px;" />
+  </a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS3" width="50" height="50" style="margin: 10px;" />
+  </a>
+  <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-original.svg" alt="TailwindCSS" width="50" height="50" style="margin: 10px;" />
+  </a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="50" height="50" style="margin: 10px;" />
+  </a>
+  <a href="https://www.python.org" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="50" height="50" style="margin: 10px;" />
+  </a>
+</p>
 
-<td align="center">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="70"><br>
-CSS
-</td>
+### Tools & Environments
 
-<td align="center">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="70"><br>
-JavaScript
-</td>
-
-<td align="center">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="70"><br>
-Python
-</td>
-</tr>
-
-</table>
+<p align="center">
+  <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="VS Code" width="50" height="50" style="margin: 10px;" />
+  </a>
+  <a href="https://www.apple.com" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/apple/apple-original.svg" alt="macOS" width="50" height="50" style="margin: 10px;" />
+  </a>
+  <a href="https://www.microsoft.com" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/windows8/windows8-original.svg" alt="Windows" width="50" height="50" style="margin: 10px;" />
+  </a>
+</p>
 
 ---
 
 ## Connect With Me
 
-
 <p align="center">
-  <a href="https://www.tiktok.com/@.codinglabs"><img src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white" /></a>
-  <a href="https://discord.com/users/1172633652740505672"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" /></a>
-  <a href="https://www.youtube.com/@Codinglabs-h6l"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" /></a>
+  <a href="https://www.tiktok.com/@.codinglabs" target="_blank">
+    <img src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white" alt="TikTok" />
+  </a>
+  <a href="https://discord.com/users/1172633652740505672" target="_blank">
+    <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" />
+  </a>
+  <a href="https://www.youtube.com/@Codinglabs-h6l" target="_blank">
+    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube" />
+  </a>
 </p>
-
 
 ---
 
-
 ## GitHub Stats
+
 <p align="center">
   <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=WebdevioCode&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
   <br/><br/>
-  <a href="https://git.io/streak-stats">
+  <a href="https://git.io/streak-stats" target="_blank">
     <img src="https://streak-stats.demolab.com/?user=WebdevioCode&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
   </a>
 </p>
 
-</div>
 </div>
